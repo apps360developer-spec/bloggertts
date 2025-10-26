@@ -1,0 +1,5 @@
+{
+  "name": "Pro TTA By Gemini in any language for Blogger",
+  "description": "A responsive web application that converts text to speech using the Google Gemini API. Users can input text, select from various pre-built voices, and listen to the generated audio in real-time.",
+  "requestFramePermissions": []
+}
